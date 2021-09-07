@@ -3,8 +3,8 @@ development:
   encoding: unicode
   database: air_quality_microservice
   pool: 2
-  username: Joseph Mecha
-  password: arapaho
+  username: joemecha
+  password: airbender
 production:
   adapter: postgresql
   encoding: unicode
