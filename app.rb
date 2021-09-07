@@ -1,7 +1,8 @@
 require 'sinatra'
 
-class App < Sinatra::Base
+# class App < Sinatra::Base
+  #Endpoints
   get '/' do
-    erb :index
+    "This must be replaced with index view"
   end
-end
+# end
