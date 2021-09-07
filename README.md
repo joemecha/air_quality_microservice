@@ -46,5 +46,4 @@ Details pending
 
 
 ## Contact
-Created by
-* Joe Mecha [GitHub](https://github.com/joemecha) • [LinkedIn](https://www.linkedin.com/in/joemecha/)
+Created by __Joe Mecha__ [GitHub](https://github.com/joemecha) • [LinkedIn](https://www.linkedin.com/in/joemecha/)
